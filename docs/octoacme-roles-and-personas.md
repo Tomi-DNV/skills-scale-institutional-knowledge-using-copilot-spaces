@@ -75,7 +75,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
-## QA/Testing Leads
+## QA/Testing Lead
 
 ### Role Summary
 QA/Testing Leads define quality standards, create test strategies, and ensure features meet acceptance criteria and quality gates before release. They collaborate with developers and product teams to validate that solutions meet customer needs and organizational quality standards.
@@ -99,7 +99,7 @@ QA/Testing Leads define quality standards, create test strategies, and ensure fe
 
 ---
 
-## Stakeholders/Sponsors
+## Stakeholder/Sponsor
 
 ### Role Summary
 Sponsors and Stakeholders provide business context, approve resource allocation, and make key business decisions. They represent customer needs and business priorities, ensuring projects align with organizational strategy.
@@ -123,7 +123,7 @@ Sponsors and Stakeholders provide business context, approve resource allocation,
 
 ---
 
-## Technical Architects
+## Technical Architect
 
 ### Role Summary
 Technical Architects define system design, evaluate technical trade-offs, and identify risks. They work closely with developers and stakeholders to ensure solutions are scalable, secure, and maintainable.
@@ -147,7 +147,7 @@ Technical Architects define system design, evaluate technical trade-offs, and id
 
 ---
 
-## Communications/Scrum Leads
+## Communications/Scrum Lead
 
 ### Role Summary
 Scrum/Communications Leads facilitate team ceremonies (standups, planning, retrospectives) and ensure clear, timely communication across the team and stakeholders. They remove process blockers and keep projects flowing smoothly.
