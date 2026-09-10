@@ -176,7 +176,7 @@ Scrum/Communications Leads facilitate team ceremonies (standups, planning, retro
 - **Product Manager + Stakeholder/Sponsor:** Align on success metrics and priorities during initiation and planning gates.
 - **Technical Architect + Developers:** Collaborate on design during planning; architect reviews technical decisions in PRs.
 - **Communications/Scrum Lead + All Roles:** Facilitates ceremonies and project communication; escalates blockers to the Project Manager.
-- **Project Manager + Technical Architect/QA Lead:** Coordinate risk mitigation and integration points in weekly sync.
+- **Project Manager + Technical Architect/QA/Testing Lead:** Coordinate risk mitigation and integration points in weekly sync.
 
 ---
 
